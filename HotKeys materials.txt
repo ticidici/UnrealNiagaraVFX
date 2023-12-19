@@ -1,0 +1,47 @@
+HotKeys materials
+
+Hotkey-Expression
+
+A -Add
+
+B -BumpOffset
+
+C -Comment
+
+D-Divide
+
+E-Power
+
+F-MaterialFunctionCall
+
+I-If
+
+L-LinearInterpolate
+
+M-Multiply
+
+N-Normalize
+
+O-OneMinus
+
+P-Panner
+
+R-ReflectionVector
+
+S-ScalarParameter
+
+T-TextureSample
+
+U-TexCoord
+
+V-VectorParameter
+
+1-Constant
+
+2-Constant2Vector
+
+3-Constant3Vector
+
+4-Constant4Vector
+
+Shift + C-ComponentMask
